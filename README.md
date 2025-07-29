@@ -8,4 +8,3 @@
 | name   | college    | branch    |
 |--------|------------|-----------|
 |nitish  | upes       | b tech    |
-
