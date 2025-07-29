@@ -6,6 +6,6 @@
 **you can put your text in **()** to make it bold and for italic use **
 
 | name   | college    | branch    |
-|---------------------------------|
+|--------|------------|-----------|
 |nitish  | upes       | b tech    |
 
