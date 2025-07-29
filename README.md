@@ -8,3 +8,5 @@
 | name   | college    | branch    |
 |--------|------------|-----------|
 |nitish  | upes       | b tech    |
+
+you can also add a to do lit in github read me by using -[]
